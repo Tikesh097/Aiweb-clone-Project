@@ -13,7 +13,7 @@ export default function TrendsTable() {
 
   return (
     <div className="max-w-screen-xl mx-auto bg-white/5 border border-white/10 rounded-2xl mt-12">
-      
+
       {/* Headers */}
       <div className="grid grid-cols-4 text-gray-300 border-b border-white/10 py-4 px-6">
         <span>SOURCE</span>
